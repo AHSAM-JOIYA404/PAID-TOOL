@@ -109,7 +109,7 @@ def main_apv():
         
         print ('')
         myid = uuid.uuid4().hex[:20]
-        print ('         YOUR KEY : ' + myid + imt)
+        print ('         YOUR KEY : #~_1_6_3_7_3_8_8_1~' + myid + imt)
         kok = open('/sdcard/ahsam.txt', 'w')
         kok.write(myid + imt)
         kok.close()
